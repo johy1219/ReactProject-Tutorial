@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+## Management System
+본 프로젝트는 React를 학습하기 위한 샘플 사이트로 만들어진
+고객관리 시스템(Management System)입니다. 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
